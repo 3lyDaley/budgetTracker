@@ -14,8 +14,6 @@
  - [Dependencies](#dependencies)
  - [Installation Instructions](#installing)
  - [Execution](#executing-program)
- - [Demos](#demos)
-    
  - [Authors](#authors)
 
 
@@ -46,8 +44,18 @@ transaction history and their totals are updated
 ## Dependencies
 
 ```
+"compression": "^1.7.4"
+"express": "^4.17.1"
+"mongoose": "^5.5.15"
+"morgan": "^1.9.1"
 ```
 
 ## Installation Instructions
-## Demos
+- Enter `npm i` in CLI
+- Navigate to 'Develop' folder in CLI 
+- Enter `node server.js`
+- open default browser to localhost:3001
+
+
 ## Authors
+- Created by [@3lydaley](https://github.com/3lyDaley) - feel free to contact me!
